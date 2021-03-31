@@ -2,4 +2,4 @@
 Solution of Kickstart 2021 in cpp
 
 
-- would be updating soon
+- Solutions Updated
